@@ -1,1 +1,1 @@
-# Jungle-Safari-Landing-Project
+# Staking frontend
